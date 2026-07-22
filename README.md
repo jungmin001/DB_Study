@@ -1,1 +1,1 @@
-# DB_Study
+# DataBase Study Repo :D
