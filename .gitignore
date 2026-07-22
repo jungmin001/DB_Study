@@ -1,5 +1,8 @@
 // Rider User Settings
-.idea
+.idea/
+
+// VS code User Settings
+.vscode/
 
 // files_py
 01 copy 3.py
